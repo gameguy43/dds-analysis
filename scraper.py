@@ -1,4 +1,4 @@
-mport urllib
+import urllib
 import datetime
 
 SCRAPE_DEST="/home/pyrak/scrapes/"
