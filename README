@@ -1,0 +1,31 @@
+ABOUT----------------------
+
+Dartmouth Dining Service Menu Analysis
+started by D. Parker Phinney, late Fall 2009
+
+This is a project to do some analysis on Dartmouth Dining Service (DDS).
+I'm open to taking this project in other directions, but right now here's what I'm thinking:
+
+*Archive daily menus (as reported on the website).
+**I'd like to get a full calendar years' worth, but just one full quarter would be great also
+*Parse and index those menus (keeping a copy of the original archive, of course)
+**Organize it so that I can pull useful statistics by issuing queries
+*Run some statistical analysis, see what pops out, make a pie graph, and assemble a fancy-looking paper
+*Repeat
+*????
+*PROFIT!!!!
+
+Why?
+*I want to get better at web scraping, especially web scraping with python and especially web scraping to do analytics
+**Like what these kiddies do: http://www.webecologyproject.org/
+*I decided to go veg in the middle of Fall '09.  I was disappointed with how few vegetarian options the dining service offered.
+
+
+FILES------------------------
+code/
+	menu-scraper.py
+		scrapes out daily menus from the dds website.  i run this with a cron job every day.
+	menu-parser.py
+		parses daily menus to grab all the useful data. (incomplete, as of jan 3rd 2010)
+data/
+	raw-menu-scrapes/

@@ -4,7 +4,7 @@ import datetime
 # where we will keep the scraped html menu pages
 SCRAPE_DEST="/home/pyrak/scrapes/"
 
-def main():
+def scrape():
 	#the url of the dailymenus page is based on the day of the week
 	now = datetime.datetime.now()	
 	weekdayDec = int(now.strftime("%w")) #[0,6]
@@ -30,4 +30,4 @@ def main():
 	urllib.urlretrieve('http://www.dartmouth.edu/~dds/' + menuPageName, SCRAPE_DEST + '/' + str(now))
 
 if __name__ == '__main__':
-    main()
+    scrape()
