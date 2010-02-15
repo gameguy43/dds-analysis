@@ -1,8 +1,9 @@
 import urllib
 import datetime
 
+
 # where we will keep the scraped html menu pages
-SCRAPE_DEST="/home/pyrak/scrapes/"
+SCRAPE_DEST="/home/pyrak/dds-analysis/data/raw-menu-scrapes"
 
 def scrape():
 	#the url of the dailymenus page is based on the day of the week
