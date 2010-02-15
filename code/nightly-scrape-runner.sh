@@ -1,5 +1,5 @@
 # !/bin/bash
-$PROJECT_DIR=~/workspace/dds-analysis
+PROJECT_DIR=~/dds-analysis
 cd $PROJECT_DIR
 
 # like, do the effing scrape!
