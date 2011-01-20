@@ -7,7 +7,7 @@ python code/menu-scraper.py
 
 # check them in, bro!
 git add data/*
-git commit -am "AUTO COMMIT: slurped some data!"
+git commit -amq "AUTO COMMIT: slurped some data!"
 git push --quiet
 
 
