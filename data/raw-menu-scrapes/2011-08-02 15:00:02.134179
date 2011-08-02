@@ -1,0 +1,375 @@
+ <!-- is www or cobweb? -->
+
+ <!-- then account is leading directory -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>System Unavailable</title>
+<!-- com.omniupdate.div label="003.inc" path="/_permacode/current/elements/packages/003.inc" -->
+<!--Copyright, Trustees of Dartmouth College, all rights reserved--> <meta http-equiv="Content-Type" content="text/html;charset=utf-8" /> 	<link href="/comp/.permacode/_permacode/common/20071201/styles/packages/screen-base.css" type="text/css" rel="stylesheet" media="screen, print" />	<link href="/comp/_permacode/current/styles/parts/custom-all.css" type="text/css" rel="stylesheet" media="screen" />					<link href="/comp/.permacode/_permacode/common/20071201/styles/packages/print.css" type="text/css" rel="stylesheet" media="print" />	<link href="/comp/_permacode/current/styles/packages/print.css" type="text/css" rel="stylesheet" media="print" />
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="005.inc" path="/_permacode/current/elements/packages/005.inc" -->
+
+<script type="text/javascript" src="/comp/.permacode/_permacode/common/20071201/scripts/styleswitch.js"></script>
+
+<script type="text/javascript" src="/comp/_permacode/current/scripts/subsite.js"></script>
+
+
+<!-- /com.omniupdate.div -->
+<!-- enter page-specific head scripts, meta tags and styles here -->
+<meta name="Description" content="" />
+<meta name="Keywords" content="" />
+<!-- com.omniupdate.div label="007.inc" path="/_permacode/current/elements/packages/007.inc" -->
+
+<!-- /com.omniupdate.div -->
+</head>
+<body>
+<!-- com.omniupdate.div label="010.inc" path="/_permacode/current/elements/packages/010.inc" -->
+<!--stopindex-->
+ <!-- Emergency Banner -->
+
+<!-- SKIP HEADER -->
+<div class="skip-to-content">
+<a href="#b-anchor">Skip to main content</a>
+</div>
+
+<!-- Dartmouth Common Header -->
+<div id="headercommon">
+<div id="commonnav">
+<ul>
+<li class="first"><a name="top">&nbsp;</a><a href="http://www.dartmouth.edu/">Dartmouth Home</a></li>
+<li><a href="http://www.dartmouth.edu/~search/">Search</a></li>
+<li class="last"><a href="http://www.dartmouth.edu/home/about_site/site_index.html">Index</a></li>
+<li class="last"><a href="http://www.dartmouth.edu/"><img src="/comp/_permacode/current/styles/images/head-dart-logo.gif" alt="Dartmouth home page" class="dart" /></a></li>
+</ul>
+</div>
+
+</div>
+
+<!-- header -->
+<div id="header">
+<div id="header-left">
+
+	
+		<div id="dart-id">Dartmouth College</div><a href="/comp/"><img src="/comp/.permacode/_permacode/common/20071201/styles/images/home.gif" class="home" alt="Home" /></a><div id="site-name">Computing at Dartmouth</div>
+	
+
+</div>
+</div>
+
+<!-- header nav -->
+<div id="header-nav">
+<ul>
+<li><a href="http://www.dartmouth.edu/comp/email-cal/">Email, Calendar &amp; Collaboration Tools</a></li>
+<li class="narrow"><a href="http://www.dartmouth.edu/comp/soft-comp/index.html">Software &amp; Computers</a></li>
+<li><a href="http://www.dartmouth.edu/comp/equipment/">Phones, TV, Printers, AV Equipment</a></li>
+<li class="narrow"><a href="http://www.dartmouth.edu/comp/internet/">Networking</a></li>
+<li><a href="http://www.dartmouth.edu/comp/training/">Teaching, Learning<br /> &amp; Research</a></li>
+<li class="narrow"><a href="http://www.dartmouth.edu/comp/systems/">College-wide Systems</a></li>
+<li class="narrow"><a href="http://www.dartmouth.edu/comp/web-media/">Web &amp; Video Services</a></li>
+<li class="last store"><a href="http://www.dartmouth.edu/comp/store/">Computer Sales <br />&amp; Service</a></li>
+</ul>
+
+</div>
+
+<!-- Container for main content area -->
+<div id="containerb">
+
+<!-- Container to restrain column c -->
+<div id="containerc">
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="015.inc" path="/_permacode/current/elements/packages/015.inc" -->
+
+<div id="c-content">
+<div class="c3">
+<!-- com.omniupdate.div label="site-search.inc" path="/_permacode/current/elements/parts/site-search.inc" -->
+<h3>Search this Site</h3>
+<form action="http://www.dartmouth.edu/comp/search.html" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="017180522165740084141:v1wbqwoih_k" />
+		<input type="hidden" name="as_q" value="more:comp" />
+		<input type="hidden" name="cof" value="FORID:10;NB:1" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" id="box" name="q" />
+    <input type="submit" id="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
+
+
+
+
+</div>
+
+<div class="c2">
+<!-- com.omniupdate.div label="help.html" path="/_permacode/current/elements/parts/c2.inc" -->
+<h3><a href="http://www.dartmouth.edu/comp/help/index.html">Need Help?</a></h3>
+<a href="http://www.dartmouth.edu/comp/help/index.html"><img src="http://www.dartmouth.edu/comp/_permacode/current/styles/images/chat.gif" width="154" height="83" alt="Ask now! Live chat" /></a>
+<p><a href="http://www.dartmouth.edu/comp/help/index.html">Find someone in Computing</a></p>
+<p><a href="http://www.dartmouth.edu/comp/help/index.html"><strong>Request Help Now</strong></a></p>
+<p>Helpline: 646-2999</p>
+
+<!-- /com.omniupdate.div -->
+</div>
+
+<div class="c1">
+<!-- com.omniupdate.div label="dartpulse.html" path="/_permacode/current/elements/parts/c1.inc" -->
+<h3>DartPulse Alerts</h3>
+<p><span class="dartpulse">Overall System Status:</span>
+<script src="http://dartpulse.dartmouth.edu/DartPulse/status.go?format=javascript&showDate=1&showText=1" type="text/javascript">
+</script>
+</p>
+<noscript><p>Javascript needs to be on to view status. Please visit <a href="http://dartpulse.dartmouth.edu/">DartPulse</a> for the latest outages.</p></noscript>
+<p><a href="http://dartpulse.dartmouth.edu/DartPulse/DartPulse?view=scheduled">Upcoming Scheduled Outages</a>
+</p>
+
+<!-- /com.omniupdate.div -->
+</div>						
+
+<div class="c4">
+<!-- com.omniupdate.div label="qlinks.html" path="/rightcol/qlinks.html" -->
+<!-- com.omniupdate.div label="qlinks" group="Everyone" button="333" break="yes" --><!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/main-content.css" cssmenu="/_permacode/current/cms_support/main-content.txt" --><h3>Quick Links</h3>
+<div class="qlinks">
+<ul>
+<li><a href="/comp/systems/list.html">Access to Systems </a></li>
+<li><a href="/comp/training/self-taught/blackboard.html">Blackboard</a> </li>
+<li><a href="/comp/systems/student-systems/banner-student.html">Banner</a> </li>
+<li><a href="/comp/email-cal/email/BlitzMail/index.html">BlitzMail</a> </li>
+<li><a href="/comp/training/index.html">Courses</a></li>
+<li><a href="/comp/equipment/tv/index.html">DarTV </a></li>
+<li><a href="/comp/equipment/printers/greenprint/index.html">GreenPrint</a></li>
+<li><a href="/comp/store/">New Computer</a></li>
+<li><a href="/comp/systems/accounts/index.html">Passwords</a></li>
+<li><a href="/comp/soft-comp/software/downloads/index.html">Software Download</a></li>
+<li><a href="/comp/internet/offcampus/vpn/juniper.html">VPN</a></li>
+<li><a href="/comp/internet/wireless/index.html">Wireless </a></li>
+</ul>
+</div>
+<h3><a href="/comp/about/">About Computing</a></h3>
+<ul>
+<li><a href="/comp/about/overview.html">Services</a></li>
+<li><a href="/comp/about/departments/index.html">Departments</a></li>
+<li><a href="/comp/about/committees/index.html">Committees</a></li>
+<li><a href="/comp/about/initiatives/">Initiatives</a></li>
+<li><a href="/comp/about/policies/">Policies</a></li>
+<li><a href="/comp/about/employment/">Employment</a></li>
+<li><a href="/comp/about/archive/">Archive</a>
+<p>&nbsp;</p>
+</li>
+<li><a href="/comp/other.html">Other IT Groups</a></li>
+<li><a href="/comp/site/index.html">About This Site</a></li>
+</ul><!-- /com.omniupdate.div -->
+
+<!-- /com.omniupdate.div -->
+</div>
+
+						
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="020.inc" path="/_permacode/current/elements/packages/020.inc" -->
+</div>
+<div id="a-content">
+<div class="a1">
+<h3><a href="http://www.dartmouth.edu/comp/new.html">New to Dartmouth?</a></h3>
+<h3>Resources for:</h3>
+<ul>
+<li><a href="http://www.dartmouth.edu/comp/resources-fac.html">Faculty</a></li>
+<li><a href="http://www.dartmouth.edu/comp/resources-staff.html">Staff</a></li>
+<li><a href="http://www.dartmouth.edu/comp/resources-student.html">Students</a></li>
+</ul>
+<h3><a href="http://www.dartmouth.edu/comp/security/index.html">Information Security</a></h3>
+<ul>
+<li><a href="http://www.dartmouth.edu/comp/security/central/index.html">Central Security Measures</a></li>
+<li><a href="http://www.dartmouth.edu/comp/security/at-risk/index.html">What's at Risk?</a></li>
+<li><a href="http://www.dartmouth.edu/comp/security/safe-computing/index.html">Safe Computing</a></li>
+<li><a href="http://www.dartmouth.edu/comp/security/resources-security/index.html">Security Resources</a></li>
+<li><a href="http://www.dartmouth.edu/comp/security/csi/index.html">Cyber Security Initiative</a></li>
+</ul>
+
+</div>
+
+<div class="a2">
+
+</div>
+
+<div class="a3">
+
+	<h3>College-Wide Systems</h3>
+<ul>
+<li><a href="http://www.dartmouth.edu/comp/systems/list.html">List of All Systems</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/accounts/index.html">Accounts and Passwords</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/student-systems/index.html">Used by Students</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/faculty-systems/index.html">Used by Faculty</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/staff-systems/index.html">Used by Staff</a> 
+<ul>
+<li><a href="http://www.dartmouth.edu/comp/systems/staff-systems/financial-systems.html">Financial Systems</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/staff-systems/hr-systems.html">Human Resources Systems</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/staff-systems/sponsored-systems.html">Sponsored Research Systems</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/staff-systems/endowment.html">Endowment/Investment Systems</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/staff-systems/reporting.html">Reporting Systems</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/staff-systems/facility-systems.html">Facilities, Events, Other Systems</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/staff-systems/fundraising.html">Fundraising Systems</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/staff-systems/student-systems.html">Student Administration Systems</a></li>
+</ul>
+</li>
+<li><a href="http://www.dartmouth.edu/comp/systems/general-systems/index.html">Used by All</a></li>
+<li><a href="http://www.dartmouth.edu/comp/systems/initiatives/index.html">Initiatives</a>
+<ul>
+<li><a href="http://www.dartmouth.edu/comp/systems/initiatives/idm/">Identity Management</a></li>
+</ul>
+</li>
+</ul>
+
+
+</div>
+
+<div class="a4">
+</div>
+
+</div>
+<div id="b-content" ><a name="b-anchor"></a>
+
+<div class="b1">
+<span class="section-name">
+
+	
+		<!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/section-path.css" cssmenu="/_permacode/current/cms_support/section-path.txt" parag="no" -->
+<a href="/comp/">Home</a> &gt;&nbsp;
+
+<a href="/comp/systems/">College-Wide Systems</a> &gt;
+
+	
+
+</span>
+</div>
+
+<!--startindex-->
+<div class="b2">
+<h1>
+
+<!-- /com.omniupdate.div -->
+
+<!-- com.omniupdate.div label="page-title" group="z-pagetitle" button="126" position="bottom" --><!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/page-title.css" cssmenu="/_permacode/current/cms_support/page-title.txt" parag="no" -->System&nbsp;Unavailable<!-- /com.omniupdate.div -->
+
+<!-- com.omniupdate.div label="030.inc" path="/_permacode/current/elements/packages/030.inc" -->
+</h1>
+</div>
+
+
+<div class="b3">
+
+<!-- /com.omniupdate.div -->
+<!-- &lt; <a href="#">Previous</a> | <a href="#">Next</a> &gt; -->
+<!-- com.omniupdate.div label="040.inc" path="/_permacode/current/elements/packages/040.inc" -->
+
+</div>
+
+<div class="b4">
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="edit-region-a" group="Everyone" button="333" break="yes" -->
+<!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/main-content.css" cssmenu="/_permacode/current/cms_support/main-content.txt" --><!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="044.inc" path="/_permacode/current/elements/packages/044.inc" -->
+
+</div>
+
+<div class="b5">
+
+<!-- /com.omniupdate.div -->
+<!-- section menu -->
+<!-- com.omniupdate.div label="050.inc" path="/_permacode/current/elements/packages/050.inc" -->
+
+</div>
+
+<div class="b6">
+
+<!-- /com.omniupdate.div -->
+
+<!-- com.omniupdate.div label="edit-main-content" group="Everyone" button="130p" break="yes" --><!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/main-content.css" cssmenu="/_permacode/current/cms_support/main-content.txt" --><p>The system you are trying to access is currently unavailable. Please try again.</p>
+<p>If you continue to experience problems:</p>
+<ul>
+<li>Check <a href="http://dartpulse.dartmouth.edu">http://dartpulse.dartmouth.edu</a> for posted outages.</li>
+<li>Contact <a href="mailto:help@dartmouth.edu">help@dartmouth.edu</a> for further assistance.</li>
+</ul>
+<p>&nbsp;</p><!-- /com.omniupdate.div -->
+
+<!-- com.omniupdate.div label="055.inc" path="/_permacode/current/elements/packages/055.inc" -->
+</div>
+
+<div class="b7">
+
+<!-- /com.omniupdate.div -->
+<!-- related topics -->
+<!-- com.omniupdate.div label="060.inc" path="/_permacode/current/elements/packages/060.inc" -->
+</div>
+
+<div class="b8">
+
+<!-- /com.omniupdate.div -->
+<!-- edit region b -->
+<!-- com.omniupdate.div label="070.inc" path="/_permacode/current/elements/packages/070.inc" -->
+
+</div>
+
+<div class="b9">
+
+<!-- /com.omniupdate.div -->
+
+<!-- com.omniupdate.div label="page-history" group="Everyone" button="131p" break="yes" -->
+<!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/doc-history.css" cssmenu="/_permacode/current/cms_support/doc-history.txt" -->
+<p></p>
+<!-- /com.omniupdate.div -->
+
+<!-- com.omniupdate.div label="080.inc" path="/_permacode/current/elements/packages/080.inc" -->
+	</div>
+</div>
+	<div class="cleardiv"></div>
+</div>
+	</div>
+<div id="footer">
+<!-- FOOTER B -->
+<div id="footer-b">
+<p><a href="http://www.dartmouth.edu/comp/site/feedback.html">Send Feedback</a> </p>
+
+</div>
+
+<!-- FOOTER A -->
+<div id="footer-a">
+<p><a href="#top">Top of page</a> | <a href="http://www.dartmouth.edu/copyright/">Copyright</a> &copy; 2011 Trustees of Dartmouth College</p>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12713146-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="090.inc" path="/_permacode/current/elements/packages/090.inc" -->
+</div>
+<!-- LAST UPDATED -->
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="100.inc" path="/_permacode/current/elements/packages/100.inc" -->
+	</div>
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.button --><p class="last-updated"><a href="http://www.omniupdate.com/oucampus-dc/de.jsp?user=Comp&amp;site=Comp&amp;path=%2Fsystems%2Fnotices%2Findex.html" target="_top">Last Updated: 3/15/10</a></p><!-- /com.omniupdate.button --></body>
+</html>
