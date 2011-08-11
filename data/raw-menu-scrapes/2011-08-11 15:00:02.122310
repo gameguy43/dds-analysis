@@ -1,0 +1,378 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <!-- is www or cobweb? -->
+
+ <!-- then account is leading directory -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Dartmouth Dining</title>
+<!-- com.omniupdate.div label="003.inc" path="/_permacode/current/elements/packages/003.inc" -->
+<!--Copyright, Trustees of Dartmouth College, all rights reserved--> <meta http-equiv="Content-Type" content="text/html;charset=utf-8" /> 	<link href="/dining/.permacode/_permacode/common/20071201/styles/packages/screen-base.css" type="text/css" rel="stylesheet" media="screen, print" />	<link href="/dining/_permacode/current/styles/parts/custom-all.css" type="text/css" rel="stylesheet" media="screen" />						<link href="/dining/_permacode/current/styles/parts/custom-home.css" type="text/css" rel="stylesheet" media="screen" />				<link href="/dining/.permacode/_permacode/common/20071201/styles/packages/print.css" type="text/css" rel="stylesheet" media="print" />	<link href="/dining/_permacode/current/styles/packages/print.css" type="text/css" rel="stylesheet" media="print" />
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="005.inc" path="/_permacode/current/elements/packages/005.inc" -->
+
+<script type="text/javascript" src="/dining/.permacode/_permacode/common/20071201/scripts/styleswitch.js"></script>
+
+<script type="text/javascript" src="/dining/_permacode/current/scripts/subsite.js"></script>
+
+<!-- /com.omniupdate.div -->
+<meta name="Description" content="" />
+<meta name="Keywords" content="" />
+<!-- enter page-specific head scripts, meta tags and styles here -->
+<!-- com.omniupdate.div label="007.inc" path="/_permacode/current/elements/packages/007.inc" -->
+
+<!-- /com.omniupdate.div -->
+</head>
+<body>
+<!-- com.omniupdate.div label="010.inc" path="/_permacode/current/elements/packages/010.inc" -->
+<!--stopindex-->
+ <!-- Emergency Banner -->
+
+<!-- SKIP HEADER -->
+<div class="skip-to-content">
+<a href="#b-anchor">Skip to main content</a>
+</div>
+
+<!-- Dartmouth Common Header -->
+<div id="headercommon">
+<div id="commonnav">
+<ul>
+<li class="first"><a name="top">&nbsp;</a><a href="http://www.dartmouth.edu/">Dartmouth Home</a></li>
+<li><a href="http://www.dartmouth.edu/~search/">Search</a></li>
+<li class="last"><a href="http://www.dartmouth.edu/home/about_site/site_index.html">Index</a></li>
+<li class="last"><a href="http://www.dartmouth.edu/"><img src="/dining/_permacode/current/styles/images/head-dart-logo.gif" alt="Dartmouth home page" class="dart" /></a></li>
+</ul>
+</div>
+
+</div>
+
+<!-- header -->
+<div id="header">
+<div id="header-left">
+
+	
+		<div id="dart-id">Dartmouth College</div><div id="site-name">Dartmouth Dining</div>
+	
+
+</div>
+</div>
+
+<!-- header nav -->
+<div id="header-nav">
+<ul>
+<li><a href="/dining/menus/"><span>Menus</span></a></li>
+<li><a href="/dining/locations/"><span>Locations &amp; Hours</span></a></li>
+<li><a href="/dining/plans/"><span>Dining Plans</span></a></li>
+<li><a href="/dining/perspectives/"><span>Perspectives</span></a></li>
+<li><a href="/dining/faq/"><span>FAQ</span></a></li>
+<li><a href="/dining/dds/"><span>About DDS</span></a></li>
+<li><form action="http://www.dartmouth.edu/dining/search-results.html" id="cse-search-box">
+<input name="cx" type="hidden" value="017180522165740084141:v1wbqwoih_k" />
+<input name="as_q" type="hidden" value="more:dining" />
+<input name="cof" type="hidden" value="FORID:10;NB:1" />
+<input name="ie" type="hidden" value="UTF-8" />
+<label for="sbox">Search:</label> <input id="sbox" class="search-input" name="q" type="text" />
+<input id="submit" class="search-button" name="sa" type="submit" value="GO" />
+</form></li>
+</ul>
+
+</div>
+
+<!-- Container for main content area -->
+<div id="containerb">
+
+<!-- Container to restrain column c -->
+<div id="containerc">
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="015.inc" path="/_permacode/current/elements/packages/015.inc" -->
+
+<div id="c-content">
+<div class="c1">
+<!-- com.omniupdate.div label="side-nav.inc" path="/_permacode/current/elements/parts/side-nav.inc" -->
+
+<!-- /com.omniupdate.div -->
+</div>
+							
+<div class="c2">
+<!-- com.omniupdate.div label="qlinks.html" path="/rightcol/qlinks.html" -->
+
+<!-- /com.omniupdate.div -->
+</div>
+
+<div class="c3">
+<!-- com.omniupdate.div label="site-search.inc" path="/_permacode/current/elements/parts/site-search.inc" -->
+<h3><label for="search_dept">Search this Site</label></h3>
+<form action="http://www.dartmouth.edu/dining/search-results.html" id="cse-search-box">
+<div>
+<input name="cx" type="hidden" value="017180522165740084141:v1wbqwoih_k" />
+ <input name="as_q" type="hidden" value="more:dining" />
+ <input name="cof" type="hidden" value="FORID:10;NB:1" />
+ <input name="ie" type="hidden" value="UTF-8" />
+ <input id="sbox" maxlength="100" name="q" type="text" />
+ <input id="submit" name="sa" type="submit" value="Search" />
+</div>
+</form>
+
+
+<!-- /com.omniupdate.div -->
+</div>
+
+<div class="c4">
+<!-- com.omniupdate.div label="site-notice.html" path="/rightcol/site-notice.html" -->
+
+<!-- /com.omniupdate.div -->
+</div>
+
+						
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="020.inc" path="/_permacode/current/elements/packages/020.inc" -->
+</div>
+<div id="a-content">
+<div class="a1">
+
+<p class="date"><img src="/dining/_permacode/current/styles/images/today.gif" alt="Today!" width="61" height="62" />Thursday, Aug 11, 2011
+</p>
+<p class="rss"><a href="/dining/menus/feed/"><img src="/dining/_permacode/current/styles/images/rss-icon.gif" alt="RSS icon" width="16" height="16" /><a href="/dining/menus/feed/">Subscribe for today’s menu</a></p>
+
+
+<h2>Courtyard Cafe
+</h2>
+<ul>
+<li><strong>Soups:</strong>&nbsp; Veggie Vegetable; Kale with Linguini</li>
+<li><strong>Lunch Special:&nbsp; </strong>Sausage Sub with Onion &amp; Pepper, Fries, Beverage</li>
+<li><strong>Vegetarian Offering</strong>:&nbsp; Veggie Shepards Pie</li>
+<li><strong>Dinner Special:</strong> Salmon with Wild Rice, Green Beans, Roll, Beverage</li>
+<li><strong>Vegetarian Offering</strong>:&nbsp; Chef's Selection</li>
+</ul>
+<h2>Collis Cafe </h2>
+<ul>
+<li><strong>Soup:</strong> Gazpacho</li>
+<li><strong>Lunch Entree</strong>:&nbsp; Japanese Tofu Salad</li>
+</ul>
+<h2>Camp Dartmouth</h2>
+<p><strong>Located in Top of the Hop</strong></p>
+<ul>
+<li><strong>Breakfast</strong>:&nbsp; Assorted Cold Cereals, Bagels, Baked Goods, Fruits, Oatmeal, Juice &amp; Milk</li>
+<li><strong>Lunch Special</strong>:&nbsp; Italian Chicken Breast Sandwich, Tator Tots<br />
+<ul>
+<li>Available Daily:&nbsp; Salad Bar, Deli, Hamburgers, Hot Dogs, Pasta with Meat &amp; Meatless Sauce</li>
+</ul>
+</li>
+<li><strong>Dinner Special</strong>: Meat &amp; Cheese Lasagna, Cheese Lasagna, Garlic Cheese Bread, Green Beans<br />
+<ul>
+<li>Available Daily:&nbsp; Salad Bar, Pasta with Meat &amp; Meatless Sauce, Assorted Desserts</li>
+</ul>
+</li>
+</ul>
+<ul>
+</ul>
+<h2>Novack Cafe</h2>
+<ul>
+<li><strong>Available Daily:</strong></li>
+<li>        Hot and Cold Beverages</li>
+<li>        Soups, Stews Chili or Chowder</li>
+<li>        Ready Made Sandwiches &amp; Wraps</li>
+<li>        Delicious Baked Goods</li>
+<li>        Assorted Snacks</li>
+</ul>
+<ul>
+</ul>
+<h2>Byrne Hall</h2>
+<ul>
+<li><strong>Lunch</strong></li>
+<li><strong>Soup of the Day</strong></li>
+<li><strong>Grill Special</strong>:&nbsp; Bison Burger with Sauteed Onions, Spinach &amp; Goat Cheese</li>
+<li><strong>Deli Special</strong>:&nbsp; New England Turkey Gobbler</li>
+<li><strong>Vegetarian</strong>:&nbsp; Falafels</li>
+<li><strong>Entree</strong>:&nbsp;&nbsp;&nbsp; BBQ Grilled Chicken Drumstick with Corn Bread &amp; Coleslaw</li>
+</ul>
+<ul>
+<li><strong>Byrne Hall Dining Closes at 4pm for Bridge Dinner and Reception <br /></strong></li>
+</ul>
+<h3><em>1953 Commons &amp; Kosher @ 1953 Commons closed for the summer</em> </h3>
+
+
+
+
+</div>
+
+<div class="a2">
+
+</div>
+
+<div class="a3">
+
+	<h3>Dartmouth Dining</h3>
+
+</div>
+
+<div class="a4">
+
+</div>
+
+</div>
+<div id="b-content" ><a name="b-anchor"></a>
+
+<div class="b1">
+<span class="section-name">
+
+	
+
+</span>
+</div>
+
+<!--startindex-->
+<div class="b2">
+<h1>
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="page-title" group="z-pagetitle" button="126" position="bottom" --><!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/page-title.css" cssmenu="/_permacode/current/cms_support/page-title.txt" parag="no" -->Welcome to Dartmouth Dining<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="030.inc" path="/_permacode/current/elements/packages/030.inc" -->
+</h1>
+</div>
+
+
+<div class="b3">
+
+<!-- /com.omniupdate.div -->
+<!-- &lt; <a href="#">Previous</a> | <a href="#">Next</a> &gt; -->
+
+<!-- TEMPLATE CHANGE -->
+<script type="text/javascript">loadGraphic("/dining")</script>
+<!-- END TEMPLATE CHANGE -->
+
+<!-- com.omniupdate.div label="040.inc" path="/_permacode/current/elements/packages/040.inc" -->
+
+</div>
+
+<div class="b4">
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="edit-region-a" group="Everyone" button="333" break="yes" --><!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/main-content.css" cssmenu="/_permacode/current/cms_support/main-content.txt" --><ul>
+</ul><!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="044.inc" path="/_permacode/current/elements/packages/044.inc" -->
+
+</div>
+
+<div class="b5">
+
+<!-- /com.omniupdate.div -->
+<!-- section-menu -->
+<!-- com.omniupdate.div label="050.inc" path="/_permacode/current/elements/packages/050.inc" -->
+
+</div>
+
+<div class="b6">
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="edit-main-content" group="Everyone" button="130p" break="yes" --><!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/main-content.css" cssmenu="/_permacode/current/cms_support/main-content.txt" --><h2>Welcome to Dartmouth Dining for 2011–2012</h2>
+<p>After 18 months of construction and several years of planning, we are thrilled to be opening the new Class of 1953 Commons for fall term. Thanks to the tremendous generosity of the Class of 1953, DDS will be offering new and healthier dining options, while hosting more people under one roof than ever before. <a title="2011–2012 Welcome" href="/dining/dds/2011-2012welcome.html">Read more...</a></p>
+<h2>Eight Reasons to Work at DDS</h2>
+<ol>
+<li>    Money: The highest paying jobs on campus are with DDS.</li>
+<li>    Hours: Shifts available anytime from 6:00 a.m. - 4:00 a.m.!</li>
+<li>    Location: Why trek across campus when you can work at a dining location right next door?</li>
+<li>    Uniforms: We provide simple t-shirts with your choice of pants, hat and shoes!</li>
+<li>    Training: On the job and customer service training, supervisory and management workshops.</li>
+<li>    Experience: Gain a range of desirable, practical and transferable work and managerial skills.</li>
+<li>    Student Run: Opportunities for promotion abound in our student managed program.</li>
+<li>    People: Meet upperclassmen and other ’15’s. Most of us meet our best friends working at DDS.</li>
+</ol>
+<p><a href="/dining/dds/jobs.html">Learn more about working at DDS…</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3><a href="/dining/dds/news.html">Click here to find the Healthy Pasta of the Week recipe</a></h3>
+<p>&nbsp;</p>
+<p><img style="float: left;" src="/dining/images/healthyeatingatcollis.jpg" alt="Healthy Eating at Collis" width="200" height="180" /></p>
+<h3> </h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Soup’s On at Dartmouth
+</h2>
+<p>Dartmouth Dining Services’ lead cook at Collis Café, Donna Donnelly, talks about the favorite parts of her job and shares the recipe of one of Collis’ more popular dishes: the African Peanut Soup. Read the <a href="http://now.dartmouth.edu/2011/03/soup’s-on/">Soup’s On</a> story from Dartmouth Now…</p>
+<br />
+
+<object width="480" height="300" data="http://www.youtube.com/v/h6miWijTnY4?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1" type="application/x-shockwave-flash">
+<param name="data" value="http://www.youtube.com/v/h6miWijTnY4?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1" />
+<param name="allowFullScreen" value="true" />
+<param name="allowscriptaccess" value="always" />
+<param name="src" value="http://www.youtube.com/v/h6miWijTnY4?fs=1&amp;hl=en_US&amp;rel=0&amp;hd=1" />
+<param name="allowfullscreen" value="true" />
+</object><!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="055.inc" path="/_permacode/current/elements/packages/055.inc" -->
+</div>
+
+<div class="b7">
+
+<!-- /com.omniupdate.div -->
+<!-- related-topics -->
+<!-- com.omniupdate.div label="060.inc" path="/_permacode/current/elements/packages/060.inc" -->
+</div>
+
+<div class="b8">
+
+<!-- /com.omniupdate.div -->
+<!-- edit-region-b -->
+<!-- com.omniupdate.div label="070.inc" path="/_permacode/current/elements/packages/070.inc" -->
+
+</div>
+
+<div class="b9">
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="page-history" group="Everyone" button="131p" break="yes" -->
+<!-- com.omniupdate.editor csspath="/_permacode/current/cms_support/doc-history.css" cssmenu="/_permacode/current/cms_support/doc-history.txt" -->
+<p></p>
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="080.inc" path="/_permacode/current/elements/packages/080.inc" -->
+	</div>
+</div>
+	<div class="cleardiv"></div>
+</div>
+	</div>
+<div id="footer">
+<!-- FOOTER B -->
+<div id="footer-b">
+<p><a href="http://www.dartmouth.edu/dining/contact/">Contact Us</a></p>
+
+</div>
+
+<!-- FOOTER A -->
+<div id="footer-a">
+<ul>
+<li><a href="http://www.dartmouth.edu/home/about_site/privacy.html">Privacy</a></li>
+<li class="last"><a href="http://www.dartmouth.edu/home/about_site/copyright.html">Copyright</a></li>
+</ul>
+
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="090.inc" path="/_permacode/current/elements/packages/090.inc" -->
+</div>
+<!-- LAST UPDATED -->
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.div label="100.inc" path="/_permacode/current/elements/packages/100.inc" -->
+	</div>
+
+<!-- /com.omniupdate.div -->
+<!-- com.omniupdate.button --><p class="last-updated"><a href="http://www.omniupdate.com/oucampus-dc/de.jsp?user=dining&amp;site=dining&amp;path=%2Findex.html">Last Updated: 8/8/11</a></p><!-- /com.omniupdate.button --></body>
+</html>
